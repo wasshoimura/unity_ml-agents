@@ -1,0 +1,9 @@
+{
+    "name": "python-env-test",
+    "dockerFile": "Dockerfile",
+    "extensions": [
+        "ms-azuretools.vscode-docker",
+        "ms-python.python",
+        "MS-CEINTL.vscode-language-pack-ja"
+    ]
+}
